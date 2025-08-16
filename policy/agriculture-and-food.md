@@ -37,7 +37,7 @@
 
 ### Cut crop subsidies
 
-- The WTO's Agreement on Agriculture classifies public stockholding schemes as Amber Box policies. US farm subsidies have shifted from purchasing agricultural surplus to essentially a separate and very generous welfare system for the agricultural industry (FCIP, ARC, etc).
+- The WTO's Agreement on Agriculture classifies public stockholding schemes as Amber Box policies. US farm subsidies have shifted from purchasing agricultural surplus to essentially a separate and very generous welfare system for the agricultural industry (FCIP, ARC, PLC etc).
 - Crop subsidies are not necessary for high yields. Australia and New Zealand zeroed out crop subsidies in the 70s/80s and today are major agricultural exporters.
 - [Total value of crop subsidies is an average of $17.6 billion a year](https://usafacts.org/articles/federal-farm-subsidies-what-data-says/). We should be putting as much of that into Ag R&D as possible.
 - If full repeal is politically impossible, [Ed Dolan had good intermediate suggestions for crop insurance specifically](https://dolanecon.blogspot.com/2018/05/crop-insurance-should-die-yet-it-lives.html):
@@ -77,7 +77,7 @@
 
 ### NOAA streamlines offshore aquaculture permits
 
-- Getting an offshore aquaculture permit is a [confusing nightmare](https://www.congress.gov/crs-product/R45952) currently and there are proposed bills to rectify this but my priors are that the cost of offshore oceanic aquaculture will likely exceed the potential margins in most cases.
+- Getting an offshore aquaculture permit is a [confusing nightmare](https://www.congress.gov/crs-product/R45952) currently and there are proposed bills to rectify this but my priors are that the cost of offshore oceanic aquaculture will likely exceed the potential profit in most cases.
 
 ### End all commodity checkoff programs and marketing order programs
 
