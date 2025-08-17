@@ -85,4 +85,4 @@
 
 ### Repeal the Onion Futures Act
 
-- The fact we have one agricultural commodity we can't sell futures contracts for due to a historical quirk is dumb but the upside to an onion futures market is probably low due to the fact that onions are non-climacteric.
+- The fact we have one agricultural commodity we can't sell futures contracts for due to a historical quirk is dumb but the upside to an onion futures market is probably low.
