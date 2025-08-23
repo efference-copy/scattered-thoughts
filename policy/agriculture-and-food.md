@@ -10,15 +10,15 @@
 - 2020s and 2030s likely defined by higher deficits, so appropriating more ag R&D funding risky. Can be budget neutral if it comes out of crop subsidies (see below)
 - [Ag R&D return estimated between 17% to 67% over postwar period](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/75A079865598B5C6BC11C85321E7FBAF/S107407081700013Xa.pdf/research-productivity-and-output-growth-in-us-agriculture.pdf).
 - Current breakdown of federal agricultural R&D spending:
-    - Foundation for Food and Agricultural Research (FFAR)
+    - **Foundation for Food and Agricultural Research (FFAR)**
         - Private/public partnership where private investment matches federal spending $1.40 for every $1
-    - AgARDA
+    - **AgARDA**
         - Established in 2018, has yet to see any funding
         - ARPA model program for moonshot projects
-    - National Institute of Food and Agriculture (NIFA)
+    - **National Institute of Food and Agriculture (NIFA)**
         - Capacity grants to land grant universities, agricultural experiment stations, and cooperative extension services
         - $1.86 of state/local spending for every $1 of fedderal spending
-    - Commodity checkoff programs
+    - **Commodity checkoff programs**
         - These programs spend money on R&D but they are not obligated to spend any fixed percent.
         - Ideally we'd get rid of checkoff programs entirely but amending 1996 Commodity Promotion Act to require high percentage of collected checkoff fees to go to R&D would be a second best solution.
 
