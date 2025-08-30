@@ -52,6 +52,7 @@
         - Could create a [Congressional Regulatory Office (CRO)](https://www.nationalaffairs.com/publications/detail/the-case-for-a-congressional-regulation-office) for retrospective review of executive rulemaking
         - [Could also resurrect the OTA](https://www.rstreet.org/wp-content/uploads/2018/04/Final-128-1-1.pdf), but it might be simpler to roll that capacity into CRS
         - Ban on congressional stocktrading could be a sweetener for any funding increase
+            - A better alternative to banning congressional stocktrading would be tying pay bonuses to a group of metrics (GDP growth, unemployment rate, etc) though this might cause these metrics to be gamed a la Goodhart's Law
     - Change House rules to promote bipartisanship
         - End requirement that discharge petition signatures be disclosed daily
         - Lower threshold for Rules Committee consideration of bipartisan amendments from 20 on each side to 10
