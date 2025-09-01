@@ -36,5 +36,5 @@
 ## Minor reforms
 
 ### Use intercensal data collection as a form of fiscal stimulus/automatic stabilizer
-- [State censuses used to be more common, but largely eliminated Special Federal Census](https://medium.com/migration-issues/state-censuses-and-the-jobs-guarantee-1c5dacfc9a4a)
+- [State censuses used to be more common, but largely eliminated by the Special Federal Census](https://medium.com/migration-issues/state-censuses-and-the-jobs-guarantee-1c5dacfc9a4a)
 - Not a fan of jobs guarantee/fiscal stimulus in most contexts but this would have greater ROI than many low value infrastructure projects that get approved during recessions
