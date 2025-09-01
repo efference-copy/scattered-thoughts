@@ -37,13 +37,14 @@
 
 ### Cut crop subsidies
 
-- The WTO's Agreement on Agriculture classifies public stockholding schemes as Amber Box policies. US farm subsidies have shifted from purchasing agricultural surplus to essentially a separate and very generous welfare system for the agricultural industry (FCIP, ARC, PLC etc).
+- The WTO's Agreement on Agriculture classifies public stockholding schemes as Amber Box policies. US farm subsidies have shifted from purchasing agricultural surplus to essentially a separate and very generous welfare system for the agricultural industry (FCIP, ARC, PLC etc). Crop subsidies in the US aren't meant to buffer supply shocks
 - Crop subsidies are not necessary for high yields. Australia and New Zealand zeroed out crop subsidies in the 70s/80s and today are major agricultural exporters.
 - [Total value of crop subsidies is an average of $17.6 billion a year](https://usafacts.org/articles/federal-farm-subsidies-what-data-says/). We should be putting as much of that into Ag R&D as possible.
 - If full repeal is politically impossible, [Ed Dolan had good intermediate suggestions for crop insurance specifically](https://dolanecon.blogspot.com/2018/05/crop-insurance-should-die-yet-it-lives.html):
     - Eliminate yield exclusion
     - Stricter caps on high income farms
     - Eliminate harvest-price option
+- Another option would be extending the terms of Marketing Assistance Loans [from 9 months to several years](https://ifp.org/food-reserves-global-food-security/#u-s-farm-support) to encourage long-term storage. This is similar to how the Farmer Owned Reserves (FOR) loans operated in the 70s.
 
 ### End the Renewable Fuel Standard
 
@@ -70,7 +71,7 @@
 
 ### USDA/FDA standardize food expiration labels
 
-- No standards on expiration labels currently and misleading Best By labels used in inventory management by grocers [contribute ~$7 billion in food waste due to consumer confusion](https://chlpi.org/news-and-events/news-and-commentary/food-law-and-policy/confusion-over-food-date-labels-has-grown-according-to-new-national-survey/).
+- No standards on expiration labels exist currently and misleading Best By labels used in inventory management by grocers [contribute ~$7 billion in food waste due to consumer confusion](https://chlpi.org/news-and-events/news-and-commentary/food-law-and-policy/confusion-over-food-date-labels-has-grown-according-to-new-national-survey/).
 - Compared to other food labeling initiatives (COOL, National Organic Program, GMO) this would actually have a positive ROI.
 
 ## Minor Reforms
@@ -81,8 +82,8 @@
 
 ### End all commodity checkoff programs and marketing order programs
 
-- These are cartel-like and engage in a lot of questionable lobbying but their power to directly manipulate prices has been dramatically scaled back.
+- These programs are cartel-like and engage in a lot of questionable lobbying but their power to directly manipulate prices has been dramatically scaled back.
 
 ### Repeal the Onion Futures Act
 
-- The fact we have one agricultural commodity we can't sell futures contracts for due to a historical quirk is dumb but the upside to an onion futures market is probably low.
+- The fact we have one agricultural commodity we can't sell futures contracts for due to a historical quirk is dumb but the upside to an onion futures market is probably low. [Might be impactful in India](https://www.wsj.com/articles/the-world-cries-out-for-onion-derivatives-11560420029?gaa_at=eafs&gaa_n=ASWzDAhNW9rHtUU88hhoNvnGRnGikxAL94Mld7j-eFF8-HWWjPPX7Nv6Hb5Qve3QMd4%3D&gaa_ts=68b5a507&gaa_sig=F2-0opI-wcYQNpIyho-LHE5xnX7MKeXVX2l7CAmD8mGf0Qgj1fE3xghoH3dh3WkNH1EZcX9gQleuu3EASF2OvA%3D%3D).
