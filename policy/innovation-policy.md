@@ -69,6 +69,7 @@
         - Could be structured [as a quadratic funding match](https://ifp.org/fund-organizations-not-projects-diversifying-americas-innovation-ecosystem-with-a-portfolio-of-independent-research-organizations/#plan-of-action)
         - [BBN-model orgs](https://www.freaktakes.com/p/a-scrappy-complement-to-fros-building) serve as a cheaper public-private alternative
 - In addition, given the replication crisis, [R&D agencies could be mandated to set aside a fixed percentage (3-5%?) to 'red team' high impact research by running replications](https://goodscienceproject.org/articles/how-to-improve-both-scientific-innovation-and-reproducibility-at-once/). The threat of well-funded replication efforts could incentivize PIs and researchers to publish more null results and thus improve research productivity.
+- Grant applicants could also enroll in a program where their unfunded applications get added to a public database where private entities and nonprofit funds could choose to fund the grant even if the NIH or NSF doesn't.
 
 #### Cut down on administrative burdens for grant applicants
 - NIH researchers spend nearly half of their time on grant writing and that number continues to worsen.
