@@ -81,4 +81,6 @@ The ideal reforms are highly unlikely in the near term, so the best marginal ste
 
 ### Social Security
 - Reinstate the Windfall Elimination Provision/Government Pension Offset (fiscal madness this was repealed!).
-- The CBO's possible Social Security reforms [here](https://www.cbo.gov/system/files/2024-12/60557-budget-options.pdf) seem reasonable?
+- [Reliable Predictable Security (RPS)](https://manhattan.institute/article/rejuvenating-social-security-a-better-option-for-future-generations)
+    - Individuals under 45 can opt for a simple flat benefit (indexed to inflation) that is 25% above the FPL in exchange for 5% payroll tax cut for the remainder of their working years
+- The CBO's possible Social Security reforms [here](https://www.cbo.gov/system/files/2024-12/60557-budget-options.pdf) seem reasonable too?
