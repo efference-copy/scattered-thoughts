@@ -17,6 +17,12 @@
 - Repeal Onion Futures Act
 - Eliminate all commodity checkoff programs and marketing order programs
 
+# Art and Culture
+- Eliminate the Mandatory Deposit Requirement on all copyright and instead limit it to copyright registration only
+- Reduce copyright duration to the minimum in the Berne Convention (life + 50 years)
+- Reallocate 40% of NEA funding that goes to state grants to federal arts funding
+- Allow NEA to make grants to individual artists
+
 # Congressional Capacity
 - Substantially increase funding to CRS, GAO, and CBO
 - Allow House MRA to have the same budgeting flexibility as the Senate's SOPOEA
