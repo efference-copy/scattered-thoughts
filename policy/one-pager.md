@@ -22,6 +22,7 @@
 - Reduce copyright duration to the minimum in the Berne Convention (life + 50 years)
 - Reallocate 40% of NEA funding that goes to state grants to federal arts funding
 - Allow NEA to make grants to individual artists
+- Amend Commodity Exchange Act to allow box office futures
 
 # Congressional Capacity
 - Substantially increase funding to CRS, GAO, and CBO
