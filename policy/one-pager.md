@@ -5,7 +5,9 @@
 - Eliminate crop subsidies (ARC, PLC, FCIP, etc) and put savings into Ag R&D (FFAR, AgARDA, NIFA)
     - Second Best: Eliminate yield exclusion and harvest price option
 - End the Renewable Fuel Standard
-- Cut or eliminate agricultural protectionism (high MFN rates, AD/CVD, regulatory protectionism on products like catfish)
+- Cut or eliminate agricultural protectionism (high MFN rates on certain commodities, AD/CVD, regulatory protectionism)
+    - End the US Sugar Program
+    - End the FSIS continuous inspection program for catfish
 - H-2A Visa reform
     - Allow H-2A workers to change employers
     - Expand H-2A to non-seasonal work (dairies, meatpacking, forestry)
