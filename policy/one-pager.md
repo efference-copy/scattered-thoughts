@@ -93,6 +93,7 @@
 - Develop a single universal R&D grant application
 - Create a centralized assurances database for participating institutions
 - Lifetime cap on SBIR/STTR Phase 1 grants per firm
+- All SBIR/STTR contracts are fixed price (no cost-plus contracts)
 
 # Welfare/Social Insurance
 - Convert all existing welfare programs into an Integrated Cash Assistance (ICA) benefit
