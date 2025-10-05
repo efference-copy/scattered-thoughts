@@ -33,6 +33,10 @@
 - Implement block scheduling for committees
 - End requirement that discharge petition signatures be disclosed daily
 - Lower bipartisan amendment threshold in House from 20 on each side to 10
+- Reduce discharge petition threshold to one third (as it was in 72nd and 73rd Congresses)
+- Extend the House's morning hour to four hours to shift more power to committees and away from special orders/Rules Committee
+- Streamline regular order with a motion to waive points of order, nix requirement to read measure in full, and expand motions to end debate in Committee of the Whole.
+- Senate bills/amendments should be privileged in the House automatically and not require action by the Speaker.
 
 # Data Policy
 - Create a national ID system and data exchange layer like Estonia's e-ID and X-Road
