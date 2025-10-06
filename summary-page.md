@@ -28,6 +28,7 @@
 # Art and Culture
 - [Eliminate the Mandatory Deposit Requirement](https://www.niskanencenter.org/time-to-abandon-mandatory-deposit/) on all copyrighted works and instead require it for copyright registration only
 - [Reduce copyright duration to the minimum in the Berne Convention](https://www.niskanencenter.org/conservatives-vs-the-culture-industry/) (life + 50 years)
+    - Ideally we'd go to 14+14 (14 years with a possibility for 14 year renewal if author is still alive) with a reinstatement of formalities but WTO TRIPS Agreement prohibits that
 - [Reform the NEA to encourage more risk-taking in grants](https://www.artsjournal.com/worth/2016/12/what-to-do-about-the-nea/)
     - Reallocate 40% of NEA funding that goes to state grants (which usually get wasted on economic development initiatives anyway) to federal arts funding
     - Allow NEA to make grants to individual artists
@@ -44,11 +45,20 @@
 - [Reform the House members' representational allowance (MRA) and the the senators' official personnel and office expense account (SOPOEA) to expand staffing capacity](https://www.newamerica.org/political-reform/reports/congressional-brain-drain/long-term-trends-in-congresss-brain-drain).
     - Axe the House's 18+4 FTE rule that limits House offices to 18 full-time staffers
     - Index staff allowance in both MRA and SOPOEA to inflation
-- [Create a Congressional Regulation Office (CRO) to oversee executive regulatory action](https://www.nationalaffairs.com/publications/detail/the-case-for-a-congressional-regulation-office)
+- [Create a Congressional Regulation Office (CRO) to oversee executive regulatory action and coordinate with OIRA](https://www.nationalaffairs.com/publications/detail/the-case-for-a-congressional-regulation-office)
     - Create a yearly regulatory budget analogous to fiscal budgeting with the CBO.
     - CRO could score both proposed laws and new agency rules
 - [Implement block scheduling for House committees](https://bipartisanpolicy.org/blog/optimizing-the-u-s-congressional-calendar-to-boost-legislative-productivity/)
 - [Delegation-dependent deference](https://cdn.sanity.io/files/d8lrla4f/staging/2652ef5b84fffb8c284f57e6682ea5760e543db2.pdf). Congress should specify whether there is no agency delegation, complete agency delegation, or partial delegation with expedited review.
+- [Administrative efficiency improvements for the House](https://www.thefai.org/posts/bipartisan-recommendations-to-reform-the-house-rules)
+    - House members afforded one office staffer with TS/SCI clearance
+    - Clerk of the House should maintain a list of mandatory reports due to Congress
+    - Create a centrally administered fund for creation of Legislative Service Organizations (LSO)
+    - House resolutions should be available for 24 hours prior to floor consideration
+    - Tables in resolutions, appropriations line items, committee votes, etc should be available as structured data in a centralized data store
+    - Legislation should be published in machine-readable formats
+    - House Digital Service should be chartered and expanded
+
 
 # Data Policy
 - Create a national ID system and data exchange layer like Estonia's e-ID and X-Road
@@ -91,6 +101,11 @@
 - [Require employers to issue separation certificate whenever employee is separated from a job](https://www.niskanencenter.org/wp-content/uploads/2025/08/Separation-anxiety-Reducing-improper-payments-in-unemployment-insurance-with-a-separation-certificate.pdf)
 - Increase ALMP funding to ~0.5% of GDP
 - Experiment with non-trade based wage insurance programs based on the success of [the Reemployment Trade Adjustment Assistance program](https://libertystreeteconomics.newyorkfed.org/2024/07/wage-insurance-a-potential-policy-for-displaced-workers/)
+- [Create waiver system allows states to experiment with federal labor law requirements, modeled after existing waiver systems like Section 1115 waivers in Medicaid](https://www.nationalaffairs.com/publications/detail/how-to-modernize-labor-law)
+    - Allow workers to bank comp time in lieu of overtime
+    - Grant workers' comp to freelance employees without triggering FLRA
+    - 'Unbundled' union services like work councils, hiring halls, benefits, etc separate from collective wage-setting
+- [Amend the National Labor Relations Act to explicitly allow members-only unions to negotiate with their employers on a members-only basis](https://prospect.org/justice/labor-crossroads-defense-members-only-unionism/)
 
 # Patents
 - [Replace patent maintenance fees with a Harberger Tax](https://arpitrage.substack.com/p/a-harberger-tax-on-patents)
