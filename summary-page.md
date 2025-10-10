@@ -37,6 +37,78 @@
 ## Misc
 - [Amend Commodity Exchange Act to allow box office future contracts](https://www.theringer.com/2018/11/15/movies/box-office-futures-dodd-frank-mpaa-recession)
 
+# Environmental Law
+## Conservation
+- [Reorient Endangered Species Act towards quantifiable improvements in species recovery and better aligning private incentives](https://perc.org/2023/09/20/a-field-guide-for-wildlife-recovery/)
+    - Eliminate 4(d) rules (blanket rule) which create no regulatory distinction between threatened and endangered species
+    - Fish and Wildlife Service should have a recovery plan ready for any species that is subject to a discretionary decision
+    - Automatic trigger for delisting when species reaches a certain population
+    - Delisted species litigation can only occur after a post-delisting monitoring period
+    - Recovery plans should have quantifiable targets
+    - Injunction shot clock for ESA decisions
+    - Compensate landowners for habitat restoration to prevent perverse incentives created by critical habitat designation
+    - Delegate authority for threatened species to state governments
+    - Consolidate Candidate Conservation Agreements with Assurances (CCAA) and Safe Harbor Agreements (SHA) into a single program.
+    - Automatically shield neighboring properties if a property owner voluntarily engages in conservation programs.
+    - Allow conservation banking on public land
+    - Grant Fish and Wildlife Service the authority to enter into long-term conservation contracts (10-20 year contracts)
+- [End the prior appropriation system of water rights and invest in infrastructure for true water market](https://www.perc.org/wp-content/uploads/2022/09/PPR-Water-Markets-220916-WEB.pdf#page=9)s
+    - Will require state action
+    - Amend the Nonintercourse Act to allow native American tribes to lease surface water from their reservations
+    - Create a tradeable water quality permit market to address both point source and non-point source water pollution
+- [Streamline public forest management](https://www.perc.org/wp-content/uploads/2021/04/fix-americas-forests-restore-national-forests-tackle-wildfire-crisis.pdf)
+    - Increase existing acreage limit for forest restoration catex
+    - Treat smoke from prescribed burns as an Exceptional Event for purpose of NAAQS air quality calculations
+    - Eliminate ban on foreign export of timber obtained from federal lands
+    - Allow Good Neighbor Authority agreements to be more flexible, allowing revenues to be spent on state land and not just federal, contract terms greater than 10 years, and allow counties and tribes to be equal partners in such contracts
+    - [Provide a NEPA catex for federal fuel treatment](https://perc.org/2022/06/14/does-environmental-review-worsen-the-wildfire-crisis/)
+- [Allow park managers to implement differential pricing for international visitors](https://perc.org/2025/03/24/how-to-save-our-national-parks/)
+- [Improve incentives for fire management on private land](https://perc.org/2023/01/10/burn-back-better/)
+    - States should consolidate ignition permits and smoke permits into a single permit
+    - Licensing reciprocity for state burner licenses
+    - Gross negligence standard for private burns
+    - State-backed catastrophe bonds for private landowners
+    - [Recognize risk-retention group coverage as satisfying insurance requirements for prescribed burns](https://perc.org/2025/08/27/fighting-fire-with-finance-2/)
+    - Streamline RRG registration in non-domiciliary states
+- Create a national park franchising that allows for private management and funding. These parks would operate under the National Park Service’s brand and adhere to strict standards.
+    - Could create a similar system for charter forest management
+- [Reform laws for grazing on federal land](https://www.perc.org/wp-content/uploads/old/pdfs/PERC_PS54_FINAL.pdf)
+    - Eliminate use-it-or-lose-it provision of grazing permits
+    - Eliminate base property requirement of Taylor Grazing Act
+- [Recognize virtual fencing as a conservation practice in CRP, EQIP, and other federal conservation programs](https://perc.org/2024/11/21/unlocking-the-conservation-potential-of-virtual-fencing/).
+- [Increase adoption incentives ($3k from $1k) and pilot a frequent adopter incentive for the Wild Horse and Burro program](https://perc.org/2024/05/22/from-range-to-ranch/#recommendations).
+- [Expand IFQ program to fishing in all federal waters](https://perc.org/wp-content/uploads/old/ifq_governing.pdf)
+- Create cap-and-trade system for incidental take permits
+- State trust land lease auctions should be use-agnostic
+- [Reestablish the US Bureau of Mines](https://www.therebuild.pub/p/restore-the-bureau-of-mines)
+
+## Procedural Environmental Law
+- Repeal all procedural environmental statutes (NEPA, ESA §7 consultation, NHPA)
+    - Second Best: [Weaken procedural environmental challenges considerably](https://www.greentape.pub/p/charting-out-the-new-grand-bargain)
+        - Require EIS/EA to focus on direct environmental effects only
+        - End domino permitting where one environmental review automatically triggers another (ex: CWA §404 triggering NEPA)
+        - Raise federal nexus threshold to a significant dollar value ("major federal action" should actually be major)
+        - Shorten statute of limitations for challenges to 150 days
+        - Only provide injunctive relief on evidence of environmental harms (i.e. no injunctions for paperwork errors)
+        - Impose time limits on injunctive relief
+        - Tighten pleading and standing requirements
+        - Greatly expand the number of catexes in NEPA
+- Repeal state-equivalent procedural environmental laws like CEQA
+
+## Substantive Environmental Law
+- Create a strict 1 year timeline for Clean Water Act §401 approval by states with automatic approval if no response.
+    - Should also create a federal override for high value projects
+- [Exempt CCS from EPA's UIC program like fracking was in 2005](https://www.rstreet.org/wp-content/uploads/2019/06/Final-No.-174.pdf)
+    - Second Best: [Grant state primacy in approving Class VI wells](https://bipartisanpolicy.org/blog/injecting-local-expertise-for-permanent-co2-sequestration/)
+- Enforce one year turnaround time for New Source Review permits and allow non-emitting construction before approval
+- Exempt R&D activities from NSR standards
+- Expand Title V permit term from 5 years to 10
+- Provide federal guidance for state adoption of Plantwide Applicability Licenses (PAL) in State Implementation Plans (SIPs)
+- State assumption of Clean Water Act §404 authority, away from US Army Core of Engineers
+- Allow permits-by-rule and general permits as an alternative wherever possible (minor NSR, NPDES).
+- NAAQS should exempt pollution from adjacent counties in calculations
+- [Explicitly authorize EPA to accept International Electrotechnical Commission (IEC) safety standards as equivalent to UL standards for hydrocarbon refrigerants](https://www.therebuild.pub/p/hank-hill-heat-pumps)
+
 # Innovation Policy
 ## Patents
 - [Replace patent maintenance fees with a Harberger Tax](https://arpitrage.substack.com/p/a-harberger-tax-on-patents)
@@ -115,6 +187,7 @@
 - [Create a Congressional Regulation Office (CRO) to oversee executive regulatory action and coordinate with OIRA](https://www.nationalaffairs.com/publications/detail/the-case-for-a-congressional-regulation-office)
     - Create a yearly regulatory budget analogous to fiscal budgeting with the CBO.
     - CRO could score both proposed laws and new agency rules
+    - _REINS Act_: All agency rules over $100mil in impact require Congressional approval
 - [Implement block scheduling for House committees](https://bipartisanpolicy.org/blog/optimizing-the-u-s-congressional-calendar-to-boost-legislative-productivity/)
 - [Delegation-dependent deference](https://cdn.sanity.io/files/d8lrla4f/staging/2652ef5b84fffb8c284f57e6682ea5760e543db2.pdf). Congress should specify whether there is no agency delegation, complete agency delegation, or partial delegation with expedited review.
 - [Administrative efficiency improvements for the House](https://www.thefai.org/posts/bipartisan-recommendations-to-reform-the-house-rules)
@@ -125,6 +198,7 @@
     - Tables in resolutions, appropriations line items, committee votes, etc should be available as structured data in a centralized data store
     - Legislation should be published in machine-readable formats
     - House Digital Service should be chartered and expanded
+- Eliminate the filibuster in the Senate using the "nuclear option" and lower the vote requirement for cloture to simple majority on all legislation
 ## Presidency
 - [_Article One Act_ to limit national emergency power](https://protectdemocracy.org/work/the-article-one-act/)
     - National emergencies can last 30 days only and can only be extended with Congressional approval
