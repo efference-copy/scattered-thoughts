@@ -158,6 +158,66 @@
 - Increase ALMP funding to ~0.5% of GDP
 - Experiment with non-trade wage insurance programs based on the success of [the Reemployment Trade Adjustment Assistance program](https://libertystreeteconomics.newyorkfed.org/2024/07/wage-insurance-a-potential-policy-for-displaced-workers/)
 
+# Law and Public Safety
+## Criminal Law & Law Enforcement
+- [Improve labor mobility for LEOs](https://nyulawreview.org/wp-content/uploads/2024/04/99-NYU-L-Rev-128.pdf)
+    - States should pass laws mandating portability of pensions, rank, and seniority for lateral hires
+    - Move to cash balance pensions for new hires
+    - Cross-state reciprocity for POST licenses
+    - Repeal LEOBOR provisions that mandate expunging officer misconduct records
+    - Immunize public agencies from tort liability in providing references about past and current employees
+    - State AGs should promulgate model paperwork forms to encourage standardization
+- Cities and states should legalize and encourage via grants greater automation in public safety: red light cameras, ShotSpotter, drones for chases, ALPR, POD cameras, predictive policing software like PredPol
+- [Sentencing reform](https://manhattan.institute/article/hardening-the-system-three-commonsense-measures-to-help-keep-crime-at-bay)
+    - Modified Three Strikes policy: Point based system that avoids edge case concerns of original habitual offender laws
+    - Stricter Truth In Sentencing laws
+- [Repeal Medicaid IMD exclusion](https://manhattan.institute/article/medicaids-imd-exclusion-the-case-for-repeal)
+    - Second Best: Raise threshold on number of beds to qualify
+- [Amend Firearm Owners Protection Act to allow ATF’s National Tracing Center to maintain a digital registry of non-NFA firearms](https://www.thetrace.org/2016/08/atf-non-searchable-databases/)
+- End the Equitable Sharing Program (ESP) and encourage states to reduce or end civil asset forfeiture
+- Redefine “machine gun” in National Firearms Act to include semiautomatic weapons with bump stocks
+- [Reduce criminal enforcement of what are traditionally civil wrongs](https://manhattan.institute/article/overcriminalizing-america-an-overview-and-model-legislation-for-states)
+    - Default mens rea statute for all criminal offenses unless the legislature specifies
+    - Expand mistake-of-law defense
+    - Restrict regulatory violations to civil enforcement unless legislators specifically passed as a criminal law
+- [Reform federal law enforcement spending](https://manhattan.institute/article/modernize-the-criminal-justice-system-an-agenda-for-the-new-congress#)
+    - Increase COPS grants to bring police staffing ratios to pre-Great Recession levels ($2.5bil to $18.2bil)
+    - Remove requirement that half of COPS funding must go to jurisdictions with less than 150k people
+    - Increase NIJ R&D funding to $400mil per year
+    - Link NIBRS compliance to continued receipt of federal public safety grants
+    - Congress should work with Judicial Conference of the US to promulgate best practices for caseflow management (such as those reported on by NCSC)
+- [Charter prisons](https://sites.suffolk.edu/lawreview/2017/02/26/charter-prisons-private-prisons-2-0-or-a-race-to-the-top/)
+    - Same number of dollars per prisoner as public prisons
+    - Prisons paid lump sum based on sentence, so they save money if a prisoner is let out on early release
+    - Levy a fine if a prisoner released from a given prison reoffends (recidivism tax)
+    - Allow prisoners to choose their prison with a lottery for oversubscribed prisons a la charter lotteries
+    - Incentivize states to implement similar policies using a program modeled after Race to the Top
+- [Decouple PSH programs from Housing First: Loosen HUD's Housing First provisions in their Continuum of Care guidelines](https://manhattan.institute/article/the-future-of-housing-for-the-homeless)
+    - Allow PSH providers to impose drug test requirements, probationary periods, and in general stricter behavioral rules
+    - Modify Coordinated Entry policy to allow PSH providers to be choosier about tenants rather than having it be based on duration of homelessness
+- Require assisted outpatient treatment (AOT) for mental health and drug offenders who fail diversion programs
+
+## Civil Law
+- Pass _JUDGES Act_: Increase number of federal judgeships based on Judicial Conference recommendation and stagger their creation to eliminate partisan obstruction
+- Pass _21st Century Courts Act_
+    - SCOTUS required to draft a code of conduct
+    - Live audio recording of appellate arguments
+    - Funding for case management system modernization
+    - Public access to PACER (offset with higher fees elsewhere)
+- Tort reform (in general tort reform is oversold and require careful balancing of interests, and varies wildly based on state law)
+    - Replace joint and several liability with proportionate liability
+    - Stricter caps on punitive damages while also expanding criminal liability for actions that attract high punitive damage settlements
+    - Repeal collateral source rule
+    - Move to Daubert standard for expert testimony
+    - Amend ADA to add a notice-and-cure provision
+    - Limit overbroad public nuisance liability
+    - End seatbelt gag rule
+    - Limits on appeal bonds and judgment interest
+    - Recognize non-assignment clauses in insurance contracts which restrict assignment of benefits (AOB)
+- [States should experiment with no-fault insurance schemes to manage personal injury and malpractice claims](https://www.niskanencenter.org/medical-injury-dont-call-the-lawyers/)
+    - New Zealand's Accident Compensation Corporation could be used as a model for a system covering all personal injury claims
+
+
 # Political System
 ## Elections
 - Amend Uniform Congressional District Act to allow multimember districts (max district magnitude of 5?) with a proportionality requirement ([ideally open-list PR](https://protectdemocracy.org/work/toward-a-different-kind-of-party-government/))
