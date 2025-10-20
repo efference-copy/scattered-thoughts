@@ -167,7 +167,9 @@
     - Repeal LEOBOR provisions that mandate expunging officer misconduct records
     - Immunize public agencies from tort liability in providing references about past and current employees
     - State AGs should promulgate model paperwork forms to encourage standardization
+    - Remove residency requirements for LEOs if they exist
 - Cities and states should legalize and encourage via grants greater automation in public safety: red light cameras, ShotSpotter, drones for chases, ALPR, POD cameras, predictive policing software like PredPol
+- Consider civilization and use of non-sworn officers in a greater variety of 9-1-1 calls
 - [Sentencing reform](https://manhattan.institute/article/hardening-the-system-three-commonsense-measures-to-help-keep-crime-at-bay)
     - Modified Three Strikes policy: Point based system that avoids edge case concerns of original habitual offender laws
     - Stricter Truth In Sentencing laws
@@ -186,6 +188,7 @@
     - Increase NIJ R&D funding to $400mil per year
     - Link NIBRS compliance to continued receipt of federal public safety grants
     - Congress should work with Judicial Conference of the US to promulgate best practices for caseflow management (such as those reported on by NCSC)
+    - [Should also consider creation of a national police academy](https://www.noahpinion.blog/p/professionalize-the-police)
 - [Charter prisons](https://sites.suffolk.edu/lawreview/2017/02/26/charter-prisons-private-prisons-2-0-or-a-race-to-the-top/)
     - Same number of dollars per prisoner as public prisons
     - Prisons paid lump sum based on sentence, so they save money if a prisoner is let out on early release
