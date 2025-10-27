@@ -1,5 +1,6 @@
 1. [Agriculture and Food](#agriculture-and-food)
 1. [Art and Culture](#art-and-culture)
+1. [Energy](#energy)
 1. [Environmental Regulation](#environmental-regulation)
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
@@ -55,6 +56,64 @@
     - Reallocate 40% of NEA funding that goes to state grants (which usually get wasted on economic development initiatives anyway) to federal arts funding
     - Allow NEA to make grants to individual artists
 - [Amend Commodity Exchange Act to allow box office future contracts](https://www.theringer.com/2018/11/15/movies/box-office-futures-dodd-frank-mpaa-recession)
+
+# Energy
+## Transmission and Interconnection
+### Congress should:
+- Grant FERC the same primary siting authority for interregional transmission lines that it has for natgas pipelines under the Natural Gas Act
+
+### FERC should:
+- Prohibit Right of First Refusal (ROFR) laws to enable competitive bidding in transmission construction
+- [Incentivize performance-based regulation for TDUs in the vein of UK's RIIO](https://docs.nrel.gov/docs/fy17osti/68512.pdf)
+    - PUC would set a revenue cap (equalizing treatment of CAPEX/OPEX) instead of current rate base under rate-of-return regulation
+    - Performance-based modifiers could be added (like SAIFI/SAIDI) to encourage infrastructure hardening
+- Mandate minimum transfer requirements between RTOs/regions
+- [Create standardized rules for connection of merchant high voltage transmission line](https://www.niskanencenter.org/wp-content/uploads/2025/07/Unlocking-HVDC-How-Congress-can-enable-a-more-resilient-grid-FINAL.pdf), ideally making the process as ministerial as possible.
+- [Follow Order 2023 with a standardization of the ERIS interconnection process, requiring it to be differentiated from existing NRIS process](https://advancedenergyunited.org/hubfs/2024%20Folders/2024%20-%20Reports/Unlocking%20Americas%20Energy%20How%20to%20Efficiently%20Connect%20New%20Generation%20to%20the%20Grid.pdf)
+    - Require ERIS studies to consider economic dispatch as a method of managing congestion rather than inflexible power flow models
+    - Only test contingencies applicable to non-firm generation that can be curtailed
+    - Create a pathway for ERIS to NRIS upgrades
+- Convene NERC and NAESB to develop harmonized standards for gas-electric coordination
+- Ideally push RTOs to move to an energy-only, ERIS-only market a la ERCOT but this is unlikely
+
+### States should:
+- Repeal any state ROFR laws that currently exist (see above)
+- Institute performance-based regulation for TDUs (see above)
+- Move to energy-only, ERIS-only market (see above)
+
+## Energy Land Use
+### Congress should:
+- [Require BLM to create a generalized energy land auction process modeled after current O&G land auctions to put O&G exploration, VREs, and geothermal on equal footing](https://www.niskanencenter.org/wp-content/uploads/2024/03/Energy-Siting_Leasing.pdf).
+- Equalize rental and royalty fees between O&G users and non-O&G users
+- Allow tribes to enter into 99-year leases without BIA approval
+- Expand HEARTH Act to subsurface leasing
+- Allow individual Indian property owners to negotiate IMDA/TERA agreements
+- [Pass the _Mining Clarity Act_](https://clearpathaction.org/wp-content/uploads/sites/55/2024/05/s661-hr2925-mining-regulatory-clarity-act.pdf) clarifying the ability for mining lessees to use adjacent parcels for waste storage and processing
+
+## Renewables
+### Congress should:
+- [Pass the _Community and Hydropower Improvement Act_](https://www.hydro.org/powerhouse/article/the-importance-of-streamlining-hydropower-licensing-reform/)
+    - Requires FERC to commit to a two year deadline for license renewal
+    - Limits mandatory conditions imposed by federal agencies on hydropower relicensing
+    - Directs FERC to create streamlined 3-year license process for closed-loop and off-stream pumped storage
+
+### States should:
+- [Pass an NEC amendment allow for the use of plug-in solar modeled after German standards](https://www.wired.com/story/why-balcony-solar-hasnt-taken-off-in-the-us/)
+
+## Nuclear Power
+### Congress should:
+- Replace ALARA with a specific sub-background dose limit
+- Expand use of ISO-9001 QA guidelines to meet NRC's QA/QC material guidelines
+- [Eliminate mandatory uncontested hearing required by Atomic Energy Act](https://thebreakthrough.org/issues/energy/rethinking-uncontested-mandatory-hearings-at-the-nuclear-regulatory-commission)
+- Reinstate section 140b commercial demonstration licensing pathway allowing for full cost recovery of smaller microreactors
+- Allow nuclear power plants to use NOAA weather data rather than having to erect their own measurement tower
+- Reduce requirement for force-on-force security drill requirements
+Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safety challenges designated by the NRC
+- Exempt DOE-approved test reactors from NRC licensing
+
+### States should:
+- Repeal any state nuclear energy bans
+
 
 # Environmental Regulation
 ## Conservation
