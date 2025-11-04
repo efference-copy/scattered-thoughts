@@ -2,6 +2,7 @@
 1. [Art and Culture](#art-and-culture)
 1. [Energy](#energy)
 1. [Environmental Regulation](#environmental-regulation)
+1. [Financial Regulation](#financial-regulation)
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
 1. [Law and Public Safety](#law-and-public-safety)
@@ -195,6 +196,49 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - State assumption of Clean Water Act §404 authority, away from US Army Core of Engineers
 - Allow permits-by-rule and general permits as an alternative wherever possible (minor NSR, NPDES).
 
+# Financial Regulation
+## Banking Regulation
+### Congress should:
+- [Replace existing Dodd-Frank/Basel capital requirements with the following system](https://media4.manhattan-institute.org/sites/default/files/RFR-Calomiris-Book.pdf):
+    - Minimum tangible equity-to-assets ratio of 10%
+    - Minimum tangible equity-to-risk weighted assets ratio of 15%
+    - Banks required to maintain cash reserves at an interest-bearing Fed account equal to a proportion of total debt (20%?)
+    - SIFI BHCs required to maintain an additional 10% in CoCos that convert to equity on a dilutive basis
+    - Risk-weighting based on market data, like contractual loan interest rates
+    - Carve out from leverage and liquidity requirements for OTC debt
+- Replace existing system of subsidizing mortgage risk with down payment assistance a la Australia
+    - Means-tested down payment assistance paired with phased-in stricter LTV limits across all mortgages
+    - Means-tested subsidization of privately supplied mortgage interest rate swaps
+    - Create tax advantaged account for downpayment assistance and/or allow 401k funds to pay for downpayments tax-free
+    - Privatize the GSEs and FHLB mortgage lending
+    - Cap percentage of bank lending in real estate, shifting financing to non-bank entities
+- Fed stress tests should adhere to transparent prudential criteria, bank cash flows should be incorporated into models, and models should be disclosed with a lag
+- Replace Title II of Dodd-Frank (Orderly Liquidation Authority) with a new bankruptcy code ("Chapter 14")
+- Repeal the Durbin Amendment
+- Repeal the Volcker Rule
+- Repeal the pricing and risk-management rules in the Credit CARD Act
+- Repeal Community Reinvestment Act
+- Repeal 3% mortgage service fee cap on Qualified Mortgages
+- Repeal most of the post-08 requirements on Money Market Funds (SEC Rule 2a-7)
+- Reimplement the OCC’s True Lender Rule which clarifies that federal rules apply in a joint federally chartered bank/state chartered bank loan
+- Amend Bank Holding Act to classify industrial lending companies (ILCs) as banks
+- Index SIFI threshold to inflation
+
+## Securities Regulation
+### Congress should:
+- [Reform rules for shareholder voting in index funds](https://www.mercatus.org/research/policy-briefs/reforming-index-fund-voting)
+    - Require voting rights to pass-through to ultimate investor
+    - Allow these ultimate investors to issue general voting directives and delegation to third parties
+    - [Amend Investment Company Act to define a passive fund’s fiduciary duty as abstaining from votes](https://manhattan.institute/article/index-funds-have-too-much-voting-power-a-proposal-for-reform)
+- Allow firms to select to report earnings semiannually (as in the UK) rather than quarterly
+- Impose fiduciary responsibility on proxy advisor firms like ISS and Glass Lewis
+- Relax post-08 reporting standards on securities lending and shorts
+- SRO fee changes should undergo notice-and-comment as they did pre-Dodd Frank
+- Apply substituted compliance on a consistent basis for cross-border derivative trading such as when a non-US firm and US firm transact, or two non-US firms transact with US personnel as an intermediary
+- Harmonize CFTC and SEC rules for swaps and securities
+- Repeal Dodd Frank section 956 and section 621
+- Raise Sarbanes-Oxley 404 exemption threshold and index it to inflation
+
 # Innovation Policy
 ## Patents
 ### Congress should:
@@ -324,6 +368,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Punitive damages should be subject to automatic stay pending appeal without supersedeas bonding requirement
     - Cap on punitive damages and/or make it formula-based
     - State Unfair and Deceptive Practices (UDAP) laws should require the showing of specific consumer injury or harm, and ideally enumerate statutorily what counts as an unfair or deceptive practice is (as some states have already done)
+    - Require bellwhether procedures for mass arbitrations as is currently done in MDLs
 - [Experiment with no-fault insurance schemes to manage personal injury and malpractice claims](https://www.niskanencenter.org/medical-injury-dont-call-the-lawyers/)
     - New Zealand's Accident Compensation Corporation could be used as a model for a system covering all personal injury claims
 
