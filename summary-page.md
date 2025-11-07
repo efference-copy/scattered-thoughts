@@ -1,5 +1,6 @@
 1. [Agriculture and Food](#agriculture-and-food)
 1. [Art and Culture](#art-and-culture)
+1. [Communication](#communication)
 1. [Energy](#energy)
 1. [Environmental Regulation](#environmental-regulation)
 1. [Financial Regulation](#financial-regulation)
@@ -58,6 +59,25 @@
     - Allow NEA to make grants to individual artists
 - [Amend Commodity Exchange Act to allow box office future contracts](https://www.theringer.com/2018/11/15/movies/box-office-futures-dodd-frank-mpaa-recession)
 
+# Communication
+## Spectrum management
+### Congress should:
+- [Reallocate the C band (3.7-4.2 GHz)](https://www.rstreet.org/wp-content/uploads/2018/09/Policy-Study-150.pdf)
+    - Mandate registration of satellite earth stations
+    - Allow a satellite consortium to sell chunks of spectrum collectively
+    - Allow satellite users to lease their unused spectrum
+    - Ideally eliminate full band, full arc policy
+- [Turn spectrum licenses into a permanent property right with a Harberger Tax buy-out mechanism](https://www.rstreet.org/wp-content/uploads/2019/03/Final-166-Updated1.pdf)
+## Media regulation
+### Congress should:
+- Eliminate the Universal Service Fund and replace it with tech vouchers given directly to consumers
+- Reduce restrictions on broadcast ownership limits but pair it with increased subsidies to local news via CPB
+- Expand STIR/SHAKEN to text messages
+- Replace FCC's public interest standard with a consumer welfare standard
+- Repeal Retransmission Consent rule and must-carry requirements
+- Repeal the data retention mandate
+- Repeal the news distortion standard
+
 # Energy
 ## Transmission and Interconnection
 ### Congress should:
@@ -115,6 +135,9 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 ### States should:
 - Repeal any state nuclear energy bans
 
+## Oil & Gas
+### Congress should:
+- Amend the Natural Gas Act to not require DOE approval for LNG exports
 
 # Environmental Regulation
 ## Conservation
@@ -191,6 +214,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Provide federal guidance for state adoption of Plantwide Applicability Licenses (PAL) in State Implementation Plans (SIPs)
 - NAAQS should exempt pollution from adjacent counties in calculations
 - [Explicitly authorize EPA to accept International Electrotechnical Commission (IEC) safety standards as equivalent to UL standards for hydrocarbon refrigerants](https://www.therebuild.pub/p/hank-hill-heat-pumps)
+- Reinstate the EPA's Waste Emissions Charge (methane tax)
 
 ### States should:
 - State assumption of Clean Water Act §404 authority, away from US Army Core of Engineers
