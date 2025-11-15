@@ -7,10 +7,11 @@
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
 1. [Law and Public Safety](#law-and-public-safety)
+1. [Macroeconomic Policy](#macroeconomic-policy)
 1. [Political System](#political-system)
 1. [Public Administration/State Capacity](#public-administrationstate-capacity)
+1. [Transportation](#transportation)
 1. [Welfare/Social Insurance](#welfaresocial-insurance)
-
 
 # Agriculture and Food
 ## Create a more favorable regulatory environment for new agricultural technology
@@ -109,7 +110,7 @@
 - Allow tribes to enter into 99-year leases without BIA approval
 - Expand HEARTH Act to subsurface leasing
 - Allow individual Indian property owners to negotiate IMDA/TERA agreements
-- [Pass the _Mining Clarity Act_](https://clearpathaction.org/wp-content/uploads/sites/55/2024/05/s661-hr2925-mining-regulatory-clarity-act.pdf) clarifying the ability for mining lessees to use adjacent parcels for waste storage and processing
+- [Pass the _Mining Regulatory Clarity Act_](https://clearpathaction.org/wp-content/uploads/sites/55/2024/05/s661-hr2925-mining-regulatory-clarity-act.pdf) clarifying the ability for mining lessees to use adjacent parcels for waste storage and processing
 
 ## Renewables
 ### Congress should:
@@ -215,6 +216,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - NAAQS should exempt pollution from adjacent counties in calculations
 - [Explicitly authorize EPA to accept International Electrotechnical Commission (IEC) safety standards as equivalent to UL standards for hydrocarbon refrigerants](https://www.therebuild.pub/p/hank-hill-heat-pumps)
 - Reinstate the EPA's Waste Emissions Charge (methane tax)
+- Repeal Lautenberg changes to TSCA Section 5 and return to EPA's previous New Chemical approval process (NOC granted after 90 days without agency action)
 
 ### States should:
 - State assumption of Clean Water Act §404 authority, away from US Army Core of Engineers
@@ -338,6 +340,8 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - [Decouple PSH programs from Housing First: Loosen HUD's Housing First provisions in their Continuum of Care guidelines](https://manhattan.institute/article/the-future-of-housing-for-the-homeless)
     - Allow PSH providers to impose drug test requirements, probationary periods, and in general stricter behavioral rules
     - Modify Coordinated Entry policy to allow PSH providers to be choosier about tenants rather than having it be based on duration of homelessness
+- Use NICS instead of ATF's current process for background checks on commercial explosives
+- Consolidate regulation and approval of commercial explosives under ATF and remove duplicative DHS approval process
 
 ### States should:
 - [Improve labor mobility for LEOs](https://nyulawreview.org/wp-content/uploads/2024/04/99-NYU-L-Rev-128.pdf)
@@ -395,6 +399,29 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Require bellwhether procedures for mass arbitrations as is currently done in MDLs
 - [Experiment with no-fault insurance schemes to manage personal injury and malpractice claims](https://www.niskanencenter.org/medical-injury-dont-call-the-lawyers/)
     - New Zealand's Accident Compensation Corporation could be used as a model for a system covering all personal injury claims
+
+# Macroeconomic Policy
+## Fiscal Policy:
+### Congress should:
+- Pass the [_Comprehensive Congressional Budget Act_](https://americansforprosperity.org/blog/what-is-the-comprehensive-congressional-budget-act/)
+    - Mandatory and discretionary spending, and revenue, reviewed every year as part of the budget process
+- Pass the [_SUBMIT IT Act_](https://americansforprosperity.org/blog/what-is-the-submit-it-act/), which would require the president to submit their budget request and national security strategy before conducting the SOTU
+- Pass the [_Prevent Government Shutdowns Act_](https://americansforprosperity.org/wp-content/uploads/2024/03/AFP-PGSA-1P.pdf) to automatically pass a CR if Congressional budgets miss their deadlines
+- Pass the [_Responsible Budget Targets Act_](https://americansforprosperity.org/blog/responsible-budget-targets-act/) to create a Swiss debt brake-like system targeting the primary (excludes interest) structural (excludes automatic stabilizers) balance
+- Turn CBO into an independent agency and expand power over the budget process, including the ability to determine whether capital expenditures are exempt from deficit calculations
+- All-to-all trading in the Treasury market
+
+## Monetary Policy:
+### Congress should:
+- Replace the Fed's dual mandate with a stable spending mandate
+- Replace inflation targeting with NGDP level targeting, ideally with a subsidized NGDP futures market
+- Mandate cost recovery for the Fed’s payment services (check clearing, wire transfers, ACH, FedNow)
+- Restrict the Fed balance’s sheet to short-term Treasury debt
+- End the IOR system
+- Emulate the Bank of England’s single auction mechanism where OMOs and LLR lending fall in the same lending facility. All banks eligible for discount window loans could participate, not just primary dealers
+- Eliminate section 13(3) emergency lending
+- Shift regulatory oversight for SIFIs to the OCC and not the Fed
+- Eliminate the Exchange Stabilization Fund
 
 
 # Political System
@@ -471,6 +498,11 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Mandate data sharing from state/local agencies as a precondition for federal grants
     - Increase overall funding to compensate for declining response rates
 - Replace differential privacy at the Census Bureau with older data swapping methods for disclosure avoidance
+
+# Transportation
+## Cars and Trucking
+### Congress should:
+- Pass _The Safe Routes Act_ raising the weight limit for interstate highways to equal state gross vehicle weight (GVW)
 
 # Welfare/Social Insurance
 ## Non-pension welfare
