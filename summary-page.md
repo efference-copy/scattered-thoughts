@@ -4,6 +4,7 @@
 1. [Energy](#energy)
 1. [Environmental Regulation](#environmental-regulation)
 1. [Financial Regulation](#financial-regulation)
+1. [Healthcare](#healthcare)
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
 1. [Law and Public Safety](#law-and-public-safety)
@@ -264,6 +265,75 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Harmonize CFTC and SEC rules for swaps and securities
 - Repeal Dodd Frank section 956 and section 621
 - Raise Sarbanes-Oxley 404 exemption threshold and index it to inflation
+
+# Healthcare
+## Healthcare providers
+### States should:
+- Create an expedited licensing pathway for international medical graduates (IMG) to be licensed without having to repeat residency
+- Implement licensing reciprocity for healthcare providers (physicians, nurses, midlevels etc) licensed in other states
+- Expand scope-of-practice (SOP) permissions for NPs/PAs
+- Repeal all certificate of need (CON) laws
+- Allow dental hygienists to open their own practices without supervision from dentists
+- Eliminate prescription requirement for eyeglasses purchase
+- Repeal Any Willing Provider laws
+- Repeal any telehealth parity laws
+- Amend Uniform Anatomical Gift Acts to make organ donation opt-out rather than opt-in
+
+### Congress should:
+- Lift per-hospital residency cap for DGME/IME funding
+- Reinstate the whole hospital exception for physician-owned hospitals (POH) in the Stark Law
+- [Statutorily define a minimum level of community benefit necessary for nonprofit hospital status and require reporting annual reporting on Form 990](https://www.crfb.org/papers/federal-tax-benefits-nonprofit-hospitals)
+- Pass the [_End Kidney Deaths Act_](https://www.niskanencenter.org/saving-lives-and-money-by-incentivizing-living-organ-donation/), which provides a $10k refundable tax credit per year for five years for kidney donors
+- Amend HIPAA to be a federal ceiling on state healthcare privacy rules rather than a floor
+
+## Health insurance
+### Medicare:
+- Require site-neutral payments in Medicare
+- Eliminate the Special Supplemental Benefit for the Chronically Ill (SSBCI) in Medicare Advantage
+- Shut down the Center for Medicare and Medicaid Innovation (CMMI)
+- [Congressional approval required for the addition of new payment codes in order to reduce service cost bloat](https://manhattan.institute/article/keeping-medicare-affordable-the-cost-of-adding-services)
+
+### Medicaid and uncompensated care:
+- Remove 50% FMAP floor for Medicaid
+- Closed Medicaid "hold harmless" provider tax loophole
+- Mandate 340B discount pass-through to end spread pricing loophole
+- [Medicaid benefit structure reform](https://manhattan.institute/article/a-plan-to-make-medicaid-fair-focused-and-accountable)
+    - Mandatory benefits for mandatory eligibility categories should be directly administered by the federal government
+    - Medicaid's LTC benefit should be state-administered with federally financed capped allotments, similar to CHIP's current structure
+    - Any expansion beyond mandatorily eligible groups should be state financed
+- [Impose a single overall cap on federal Medicaid funding for states adopting Medicaid waivers (§1115, §1915)](https://manhattan.institute/article/restraining-medicaids-budget-busting-waivers)
+- [Consolidate federal funding for uncompensated care into a single monthly capped reimbursement grant](https://manhattan.institute/article/untangling-the-hospital-safety-net). The cap should be proportional to share of national uninsured population in hospital's catchment area and based on Medicare rates, and federal standards would cap collections on uninsured patients.
+- Move Critical Access Hospitals (CAHs) to fee-for-service reimbursement
+
+### Private market
+- Repeal the ACA's Medical Loss Ratio (MLR) rule
+- End tax exemption of employer-sponsored insurance
+- Amend McCarran-Ferguson to enable interstate sale of health insurance
+- Allow employers to offer [individual workers a choice between ICHRAs and group plans](https://manhattan.institute/article/put-employees-in-control-of-health-insurance-with-workers-choice-ichra) provided that the group plan meets ACA standards for affordability, ECBs, OOP costs, etc.
+- [Improve incentives for continuous coverage in the individual market](https://manhattan.institute/article/continuous-renewable-coverage-rx-for-americas-dysfunctional-health-insurance-system)
+    - Allow ACA plans to offer discounts from age-rated premiums according to the number of years that enrollees have maintained continuous coverage
+    - Establish Lifetime Security plans with onetime medical underwriting that are guaranteed renewable indefinitely
+    - Allow ICHRA funds to be used to purchase Lifetime Security plans
+    - ACA's PTC could be based on pre-existing status condition
+
+## Pharmaceuticals
+### Congress should:
+- [Lower regulatory burden on human challenge trials (HCT)](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:282497e3-4f3c-4398-8649-884df71dfbdb)
+    - Regulate challenge agents under less strict Phase I trial Good Manufacturing Practice (GMP) standards rather than as a investigational medicinal product (IMP) under full GMP
+    - Produce guidelines for when next generation sequencing methods can qualify for adventitious agent testing
+- [Amend OHRP and FDA regulations to clarify that prospect of undue influence alone cannot be used to reject compensation proposal for clinical trial participants](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:83d44082-73e8-4b15-8224-3a5d796c3146)
+- Pass the _Harley Jacobsen Clinical Trial Participant Income Exemption Act_, excluding clinical trial income from participant's income tax and welfare benefit calculations
+- Amend FFDCA and Defend Trade Secrets Act to exempt "complete response letter"/"refuse to file" (CRL/RTF) from trade secret law and mandate automatic disclosure from the FDA
+- [Establish a fund for acquiring Common Technical Documents from bankrupt pharmaceutical companies that will be publicly hosted in a system similar to SEC's EDGAR](https://ifp.org/biotechs-lost-archive/#the-fda-sits-on-a-treasure-trove-of-data-nbsp)
+- [Offer fast track IND review tier to clinical trials incorporating risk-based monitoring (RBM) to incentivize industry to move away from source data verification (SDV)](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:922cb1d7-821a-4f0e-a45c-d4af947d0ddb)
+- Create a framework for de minimis clinical trial changes that are not subject to IRB review
+- Remove social science studies from IRB oversight
+- [Streamline reporting requirements for FDA Form 1572](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:a7ec66f6-9188-40c1-a836-21364ee53a48)
+    - Imagining centers providing routine services should not be required to be listed
+    - Exempt laboratories completely sicne they're already regulated under CLIA, allowing participants to use local labs rather than travel to specific locations
+- [Require >80 Flesch-Kincaid readability (5th to 6th grade) on clinical trial consent forms](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c59a7c3c-53c2-4c0d-9868-5dce0d06f53d)
+- FDA should recategorize sunscreen as a cosmetic
+- Exempt at-home tests from FDA approval
 
 # Innovation Policy
 ## Patents
