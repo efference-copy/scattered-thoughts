@@ -1,6 +1,7 @@
 1. [Agriculture and Food](#agriculture-and-food)
 1. [Art and Culture](#art-and-culture)
 1. [Communication](#communication)
+1. [Education and Childcare](#education-and-childcare)
 1. [Energy](#energy)
 1. [Environmental Regulation](#environmental-regulation)
 1. [Financial Regulation](#financial-regulation)
@@ -11,7 +12,7 @@
 1. [Macroeconomic Policy](#macroeconomic-policy)
 1. [Political System](#political-system)
 1. [Public Administration/State Capacity](#public-administrationstate-capacity)
-1. [Transportation](#transportation)
+1. [Transportation and Infrastructure](#transportation-and-infrastructure)
 1. [Welfare/Social Insurance](#welfaresocial-insurance)
 
 # Agriculture and Food
@@ -79,6 +80,41 @@
 - Repeal Retransmission Consent rule and must-carry requirements
 - Repeal the data retention mandate
 - Repeal the news distortion standard
+
+# Education and Childcare
+## K-12
+### States should:
+- Abolish neighborhood assignment, use a lottery when one school is at capacity.
+    - Could be coupled with cross-district open enrollment
+- Ban smartphones in schools
+- Automatically enroll high-performing students in advanced classes
+- Mandate start time for high school to be 8:30am or later
+- Mandate the use of Direct Instruction/phonics in ELA
+- Uncap charter school entry
+- Within a district allow the option for high-performing charter operators to takeover very low performing schools (charter grandfathering)
+- Allow all college degree holders to be able to apply for a teaching license
+- Institute merit-based promotion for new teachers based on student outcomes. Additionally, remove all guaranteed pay increase due to holding a masters.
+- Eliminate summer vacation
+- Create dual track vocational training pathways as an alternative to the final year of high school
+- Allow early admission to college for high performing high school students
+- Require districts to equalize per-pupil funding
+- Implement regular standardized test gates to automatically hold back underperforming students (similar to Mississippi's third grade gate)
+
+### Congress should:
+- Subsidize remediation of lead pipes, HVAC/HEPA filter upgrades, and other environmental factors contributing to learning outcomes
+
+## Higher Education
+### Congress should:
+- Implement the Gainful Employment rule for all universities
+
+## Childcare
+### States should:
+- Relax child-staff ratios (4:1 for infants up to 12:1 in 3-5 year old range)
+- Eliminate any degree requirements for childcare licensing
+- Rescind 2019 moratorium on au pair program (J-1 visa) and increase au pair time limit to four years
+- Childcare facility is a permitted use in all residential zones (or similar zoning to public/charter schools) and rationalize requirements for childcare facilities (need kitchen if food prep, width of stairs, etc)
+- Amend Infant Formula Act of 1980 to harmonize US formula standards with the EU's around DHA and added sugar and grant regulatory reciprocity to OECD formula exporters
+- End car seat requirement past age 2
 
 # Energy
 ## Transmission and Interconnection
@@ -278,6 +314,10 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Repeal Any Willing Provider laws
 - Repeal any telehealth parity laws
 - Amend Uniform Anatomical Gift Acts to make organ donation opt-out rather than opt-in
+- Repeal Corporate Practice of Medicine (CPOM) laws
+- Repeal Certificate of Public Advantage (COPA) laws
+- Exempt Direct Primary Care from insurance licensing and regulation
+- Create an Associate Physician licenses for medschool grads that don't match into residency
 
 ### Congress should:
 - Lift per-hospital residency cap for DGME/IME funding
@@ -331,7 +371,6 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - [Streamline reporting requirements for FDA Form 1572](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:a7ec66f6-9188-40c1-a836-21364ee53a48)
     - Imagining centers providing routine services should not be required to be listed
     - Exempt laboratories completely sicne they're already regulated under CLIA, allowing participants to use local labs rather than travel to specific locations
-- [Require >80 Flesch-Kincaid readability (5th to 6th grade) on clinical trial consent forms](https://acrobat.adobe.com/id/urn:aaid:sc:va6c2:c59a7c3c-53c2-4c0d-9868-5dce0d06f53d)
 - FDA should recategorize sunscreen as a cosmetic
 - Exempt at-home tests from FDA approval
 
@@ -569,10 +608,14 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Increase overall funding to compensate for declining response rates
 - Replace differential privacy at the Census Bureau with older data swapping methods for disclosure avoidance
 
-# Transportation
+# Transportation and Infrastructure
 ## Cars and Trucking
 ### Congress should:
 - Pass _The Safe Routes Act_ raising the weight limit for interstate highways to equal state gross vehicle weight (GVW)
+
+## Water infrastructure
+### Congress should:
+- Modify federal water project requirements to allow open materials procurement using performance-based standards
 
 # Welfare/Social Insurance
 ## Non-pension welfare
