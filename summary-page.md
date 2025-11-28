@@ -48,13 +48,14 @@
 - Vest NOAA with the authority to issue long-term aquaculture permits in federal waters
 - [Repeal _Onion Futures Act_](https://www.wsj.com/articles/the-world-cries-out-for-onion-derivatives-11560420029?gaa_at=eafs&gaa_n=ASWzDAhNW9rHtUU88hhoNvnGRnGikxAL94Mld7j-eFF8-HWWjPPX7Nv6Hb5Qve3QMd4%3D&gaa_ts=68b5a507&gaa_sig=F2-0opI-wcYQNpIyho-LHE5xnX7MKeXVX2l7CAmD8mGf0Qgj1fE3xghoH3dh3WkNH1EZcX9gQleuu3EASF2OvA%3D%3D)
 
-
 # Art and Culture
 ## Copyright Reform
 ### Congress should:
 - [Eliminate the Mandatory Deposit Requirement](https://www.niskanencenter.org/time-to-abandon-mandatory-deposit/) on all copyrighted works and instead require it for copyright registration only
 - [Reduce copyright duration to the minimum in the Berne Convention](https://www.niskanencenter.org/conservatives-vs-the-culture-industry/) (life + 50 years)
     - Ideally we'd go to 14+14 (14 years with a possibility for 14 year renewal if author is still alive) with a reinstatement of formalities but WTO TRIPS Agreement prohibits that
+- Expand compulsory licensing to sound recordings
+
 ## Arts policy to encourage more creative risk-taking
 ### Congress should:
 - [Reform the NEA to encourage more risk-taking in grants](https://www.artsjournal.com/worth/2016/12/what-to-do-about-the-nea/)
@@ -102,15 +103,29 @@
 
 ### Congress should:
 - Subsidize remediation of lead pipes, HVAC/HEPA filter upgrades, and other environmental factors contributing to learning outcomes
+- Amend IDEA to define Least Restrictive Environment as being based on the most appropriate cohort
+- Increase funding for G&T grants
+
+### Department of Education should:
+- Issue guidance clarifying that tracking and ability grouping are legally protected
+- Issue guidance that IEPs/504 plans for twice-exceptional students should include advanced learning enrichment in addition to disability-related needs
+- Issue guidance on disciplinary rules and provide model framework for tiered responses
 
 ## Higher Education
+### States should:
+- Require the use of standardized tests (SAT/ACT) in admissions
+- [University authorization reform](https://freopp.org/whitepapers/reforming-state-authorization-of-colleges-to-boost-competition-and-lower-tuition/)
+    - Move away from inputs-based requirements for college authorization and focus on consumer protection standards (surety bonds, tuition refund policies, etc)
+    - Decouple university authorization from accreditation.
+    - Reauthorization should be contingent on student outcomes
+
 ### Congress should:
 - Implement the Gainful Employment rule for all universities
 
 ## Childcare
 ### States should:
 - Relax child-staff ratios (4:1 for infants up to 12:1 in 3-5 year old range)
-- Eliminate any degree requirements for childcare licensing
+- Eliminate any degree requirements for childcare licensing and offer licensing reciprocity for childcare licenses from other states
 - Rescind 2019 moratorium on au pair program (J-1 visa) and increase au pair time limit to four years
 - Childcare facility is a permitted use in all residential zones (or similar zoning to public/charter schools) and rationalize requirements for childcare facilities (need kitchen if food prep, width of stairs, etc)
 - Amend Infant Formula Act of 1980 to harmonize US formula standards with the EU's around DHA and added sugar and grant regulatory reciprocity to OECD formula exporters
@@ -301,6 +316,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Harmonize CFTC and SEC rules for swaps and securities
 - Repeal Dodd Frank section 956 and section 621
 - Raise Sarbanes-Oxley 404 exemption threshold and index it to inflation
+- Reduce minimum tick size in Reg NMS to a half-penny
 
 # Healthcare
 ## Healthcare providers
@@ -312,12 +328,14 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Allow dental hygienists to open their own practices without supervision from dentists
 - Eliminate prescription requirement for eyeglasses purchase
 - Repeal Any Willing Provider laws
+- Repeal network adequacy laws to allow reference pricing for non-self-insured plans
 - Repeal any telehealth parity laws
 - Amend Uniform Anatomical Gift Acts to make organ donation opt-out rather than opt-in
 - Repeal Corporate Practice of Medicine (CPOM) laws
 - Repeal Certificate of Public Advantage (COPA) laws
 - Exempt Direct Primary Care from insurance licensing and regulation
 - Create an Associate Physician licenses for medschool grads that don't match into residency
+- Require all-in pricing from providers
 
 ### Congress should:
 - Lift per-hospital residency cap for DGME/IME funding
@@ -325,6 +343,12 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - [Statutorily define a minimum level of community benefit necessary for nonprofit hospital status and require reporting annual reporting on Form 990](https://www.crfb.org/papers/federal-tax-benefits-nonprofit-hospitals)
 - Pass the [_End Kidney Deaths Act_](https://www.niskanencenter.org/saving-lives-and-money-by-incentivizing-living-organ-donation/), which provides a $10k refundable tax credit per year for five years for kidney donors
 - Amend HIPAA to be a federal ceiling on state healthcare privacy rules rather than a floor
+- Expand Stark/AKS safe harbors for value-based care
+- Allow Veterans Health Administration hospitals to serve non-veterans
+- Create greater Stark/AKS exemptions for EHRs
+- Repeal Stark Law & AKS (unlikely)
+    - Add mens rea requirement to Stark Law
+    - Replace Stark Law with a system of mandatory disclosure similar to Physician Payment Sunshine Act
 
 ## Health insurance
 ### Medicare:
@@ -352,9 +376,16 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Allow employers to offer [individual workers a choice between ICHRAs and group plans](https://manhattan.institute/article/put-employees-in-control-of-health-insurance-with-workers-choice-ichra) provided that the group plan meets ACA standards for affordability, ECBs, OOP costs, etc.
 - [Improve incentives for continuous coverage in the individual market](https://manhattan.institute/article/continuous-renewable-coverage-rx-for-americas-dysfunctional-health-insurance-system)
     - Allow ACA plans to offer discounts from age-rated premiums according to the number of years that enrollees have maintained continuous coverage
-    - Establish Lifetime Security plans with onetime medical underwriting that are guaranteed renewable indefinitely
+    - Establish Lifetime Security plans with onetime medical underwriting that are guaranteed renewable indefinitely (possibly leveraging existing STLDI market)
     - Allow ICHRA funds to be used to purchase Lifetime Security plans
     - ACA's PTC could be based on pre-existing status condition
+- Replace yearly open enrollment with open enrollment every five years, where individuals can buy into plans outside of that window after paying a late penalty
+- Remove the ACA's employer mandate for employers of 50 or more employees to incentivize more employees into the individual market
+- Repeal ACA provision banning catastrophic insurance for those over the age of 30
+- Allow states to hold open enrollment biennially or triennially
+- Allow AHPs and STLDI plans
+- Create national APCD, including for state-exempt ERISA plans.
+- Create standards for bundled payments and require providers to post prices for those services at a regular interval
 
 ## Pharmaceuticals
 ### Congress should:
@@ -373,6 +404,8 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Exempt laboratories completely sicne they're already regulated under CLIA, allowing participants to use local labs rather than travel to specific locations
 - FDA should recategorize sunscreen as a cosmetic
 - Exempt at-home tests from FDA approval
+- Pass _Biosimilar Red Tape Elimination Act_ to remove switching study requirement for biosimilar approval (FDA might change this through guidance/rulemaking)
+- Reduce period of marketing exclusivity for biologics from 12 years to 5 (matching small molecule drugs)
 
 # Innovation Policy
 ## Patents
@@ -479,6 +512,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 
 ### Cities should:
 - Consider civilization and use of non-sworn officers in a greater variety of 9-1-1 calls
+- Move firefighters to 12 hour shifts, in line with police and EMS
 
 ## Civil Law
 ### Congress should:
@@ -508,6 +542,10 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Require bellwhether procedures for mass arbitrations as is currently done in MDLs
 - [Experiment with no-fault insurance schemes to manage personal injury and malpractice claims](https://www.niskanencenter.org/medical-injury-dont-call-the-lawyers/)
     - New Zealand's Accident Compensation Corporation could be used as a model for a system covering all personal injury claims
+
+## Antitrust
+### Congress should:
+- Repeal Robinson-Patman
 
 # Macroeconomic Policy
 ## Fiscal Policy:
@@ -609,13 +647,69 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Replace differential privacy at the Census Bureau with older data swapping methods for disclosure avoidance
 
 # Transportation and Infrastructure
-## Cars and Trucking
+## Aviation
 ### Congress should:
+- Reduce the ATP license requirement from 1500 hours to 200 hours, matching international norms
+    - Another option is create a multi-crew pilot license (MPL) fitting ICAO specifications
+- Spin ATC out of FAA and operate it under a public utility model that charges user fees
+- Uncap the Passenger Facility Charge (PFC)
+- Replace historic slot allocation with slot auctions
+- Reform AIPP program
+    - Remove requirement that 65% of airlines approve sale
+    - Raise AIP formula grant for privately-run airports to match public ones
+    - Allow revenue to be used for non-airport purposes
+- Eliminate Essential Air Service (EAS)
+- Repeal Fly America Act
+- Amend Air Commerce Act of 1926 to allow for air cabotage by foreign carriers
+- Expand TSA's Screening Partnership Program and grant contractors greater operational flexibility
+
+## Cars and Trucking
+### Cities should:
+- Consider congestion pricing, parking benefit districts and auctionable curb rights as a means of managing street ROW
+
+### States should:
+- End Direct To Consumer bans on automobile sales
+
+### Congress should:
+- Allow for the tolling of interstates
+- Require the NHTSA to harmonize FMVSS with international standards (UN Harmonization of Vehicle Registration) to allow adaptive headlights, amber turn signals, aspherical mirrors
+    - NHTSA should include pedestrian impact in analyzing safety
+- Eliminate CAFE standards to close the SUV/light truck loophole
 - Pass _The Safe Routes Act_ raising the weight limit for interstate highways to equal state gross vehicle weight (GVW)
+- Create a federal permit for oversized loads to replace patchwork of state permits
+- Repeal the FAST Act prohibition on federal funding for automated traffic enforcement outside of school zones
+- [Allow federal Highway Trust Fund disbursements to be exempt from federal project rules when the project is overseen by states](https://enotrans.org/article/reducing-htf-transaction-costs/)
+- Replace HTF gas tax with a VMT tax
+- Remove restriction on commercial services for interstate rest stops
+- Use a per-axle weight maximum (rather than total weight maximum) on interstates and permit longer double trailers ("Rocky Mountain double") in all 50 states
+
+## Rail and transit
+### Congress should:
+- Consolidate the FRA and FTA into a single agency
+- Eliminate the FRA crew size rule
+- Repeal section 13(c) of Urban Mass Transportation Act
+- Allow protective acquisition powers to FTA funded projects equivalent to those powers accorded to highway projects
+- Create a federal reinsurance program to backstop freight hazmat transport risks in the vein of Price-Anderson
+- Exempt Common Carrier Obligation for freight rail if a shipper has sufficient intermodal alternatives
+
+## Maritime transport
+### Congress should:
+- Repeal the Jones Act
+- Repeal the Foreign Dredge Act
+- Repeal the Passenger Vessel Services Act
+- Repeal federal cargo preference laws
+- Eliminate 50% tariff on US-flagged vessels being repaired in foreign shipyards
+- Transfer waterway infrastructure permitting and approval from USACE to USDOT
 
 ## Water infrastructure
 ### Congress should:
 - Modify federal water project requirements to allow open materials procurement using performance-based standards
+
+## Misc infrastructure
+### Congress should:
+- Raise the statutory cap on Private Activity Bond issuance
+- Remove historic preservation review from section 4(f) reviews
+- Explicitly expand NEPA Assignment to all transportation projects, not just highways
 
 # Welfare/Social Insurance
 ## Non-pension welfare
