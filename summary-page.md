@@ -6,6 +6,7 @@
 1. [Environmental Regulation](#environmental-regulation)
 1. [Financial Regulation](#financial-regulation)
 1. [Healthcare](#healthcare)
+1. [Immigration](#immigration)
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
 1. [Law and Public Safety](#law-and-public-safety)
@@ -349,6 +350,8 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Repeal Stark Law & AKS (unlikely)
     - Add mens rea requirement to Stark Law
     - Replace Stark Law with a system of mandatory disclosure similar to Physician Payment Sunshine Act
+- [Cap out-of-network emergency care to 150% of Medicare rates](https://manhattan.institute/article/end-hospitals-right-to-a-blank-check-for-emergency-care)
+- Amend the No Surprises Act to replace arbitration with rate benchmarking (150% of Medicare FFS?)
 
 ## Health insurance
 ### Medicare:
@@ -356,10 +359,18 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Eliminate the Special Supplemental Benefit for the Chronically Ill (SSBCI) in Medicare Advantage
 - Shut down the Center for Medicare and Medicaid Innovation (CMMI)
 - [Congressional approval required for the addition of new payment codes in order to reduce service cost bloat](https://manhattan.institute/article/keeping-medicare-affordable-the-cost-of-adding-services)
+- Eliminate the inpatient only list
+- Allow competitive bidding among all Medicare plans, not just DMEPOS and Medicare Advantage
+- Amend Medicare budget neutrality rule to allow fee schedule reductions without an offsetting increase
+- Reform MA payments to be a simple lump sum transfer based on a benchmark, allowing MA to pass on all efficiency savings rather than just 50-70% of savings
+- Allow providers in Medicare Advantage plans to qualify for APM under MACRA (and thus avoid the headaches of MIPS)
+- Combine Medicare Part A and Part B deductibles into a single deductible and cap individual annual OOP costs
+- Lower Medicare Part D reinsurance rate from 80% to 20% above catastrophic limit
+- Authorize CMS to consolidate county-level markets for Medicare Advantage
 
 ### Medicaid and uncompensated care:
 - Remove 50% FMAP floor for Medicaid
-- Closed Medicaid "hold harmless" provider tax loophole
+- Close Medicaid "hold harmless" provider tax loophole
 - Mandate 340B discount pass-through to end spread pricing loophole
 - [Medicaid benefit structure reform](https://manhattan.institute/article/a-plan-to-make-medicaid-fair-focused-and-accountable)
     - Mandatory benefits for mandatory eligibility categories should be directly administered by the federal government
@@ -368,6 +379,8 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - [Impose a single overall cap on federal Medicaid funding for states adopting Medicaid waivers (§1115, §1915)](https://manhattan.institute/article/restraining-medicaids-budget-busting-waivers)
 - [Consolidate federal funding for uncompensated care into a single monthly capped reimbursement grant](https://manhattan.institute/article/untangling-the-hospital-safety-net). The cap should be proportional to share of national uninsured population in hospital's catchment area and based on Medicare rates, and federal standards would cap collections on uninsured patients.
 - Move Critical Access Hospitals (CAHs) to fee-for-service reimbursement
+- Eliminate Medicaid Best Price rule
+- Reduce home equity exemption for Medicaid LTC sans Long-Term Care Partnership from $858k to $100k to incentivize participation in private LTC plans/LTCP
 
 ### Private market
 - Repeal the ACA's Medical Loss Ratio (MLR) rule
@@ -386,6 +399,7 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Allow AHPs and STLDI plans
 - Create national APCD, including for state-exempt ERISA plans.
 - Create standards for bundled payments and require providers to post prices for those services at a regular interval
+- Allow an antitrust escape clause for collective negotiation in highly concentrated healthcare markets
 
 ## Pharmaceuticals
 ### Congress should:
@@ -406,6 +420,32 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Exempt at-home tests from FDA approval
 - Pass _Biosimilar Red Tape Elimination Act_ to remove switching study requirement for biosimilar approval (FDA might change this through guidance/rulemaking)
 - Reduce period of marketing exclusivity for biologics from 12 years to 5 (matching small molecule drugs)
+- Replace Part B ASP with MedPAC's Drug Value Program proposal akin to DMEPOS
+
+# Immigration
+## General immigration changes
+### Congress should:
+- Eliminate the per-country green card cap and implement green card recapture
+- Expand Military Accessions Vital to National Interest (MAVNI) program to all legal noncitizens
+- Pass the _DREAM Act_ to create a pathway to permanent residency for illegal immigrants that enterred the country as minors
+- Remove the Diversity Visa's regional classifications and replace it with development-based classification
+- Create a state or county-sponsored place-based visa like [EIG's Heartland Visa proposal](https://eig.org/heartland-visas-a-policy-primer/)
+- Expand premium processing to all immigration benefits and use revenue to reduce backlogs at USCIS
+- Reduce requirement to file I-765 for work authorization for categories of immigrants with high rate of approval (DACA, H-4, etc)
+- Allow domestic visa validation for certain classes of immigrants to ease strain on consular processing
+- Reallocate unused Conrad 30 waivers to states that maximize their allotment
+- [Expand the J-1 program to include elder care](https://www.niskanencenter.org/comment-proposed-rule-change-to-the-exchange-visitor-program-regulations-that-govern-the-au-pair-program/)
+- Require the DOL to periodically update the Schedule A list based on the occupations that receive the most PERM requests
+
+## High skill immigration
+### Congress should
+- Implement EIG's high skill immigration reform plan
+    - Replace H-1B with a Skilled Worker Visa allocated based on salary, including for self-funded entrepreneurs
+    - Spouses of Skilled Worker Visa-holders are automatically granted EAD work authorization
+    - Allow Documented Dreamers to remain on parents' visas as long as their parents' visa is valid, not aging out at 21
+    - Replace OPT program with Recent Graduate Visa that lasts one year and has no degree-specific modifiers
+    - Create a new green card category, EB-X, that allows for permanent residency based on multiple years of income, including for self-sponsorship. Either 85th percentile income for six years of 95th percentile income for two of the last six years. No per-country cap.
+
 
 # Innovation Policy
 ## Patents
@@ -645,6 +685,62 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Mandate data sharing from state/local agencies as a precondition for federal grants
     - Increase overall funding to compensate for declining response rates
 - Replace differential privacy at the Census Bureau with older data swapping methods for disclosure avoidance
+- Reinstate 18F for internal digital services contracting
+- Federal IT procurement reform
+    - Prefer open source and open standard software
+    - Require that federal IT systems be loosely-coupled
+    - Require that federal IT projects develop an exit strategy at the onset to minimize vendor lock
+
+## Procurement
+### States should:
+- Mandate that all public contracts be itemized
+- Repeal any state bidder preference laws
+- Repeal any MWBE bidder preference laws
+- Replace low bid preference mandates with best value procurement
+- Prefer design/bid/build to design/build
+
+### Congress should:
+- Repeal Davis-Bacon
+- Repeal Buy America Act and Buy American Act
+
+## Personnel policy
+### States should:
+- Ensure most state employee positions are at-will and prohibit public employee collective bargaining
+- Delegate hiring decisions to individual agencies rather than a central personnel office
+- Adopt a broadband pay structure
+
+### Congress should:
+- Increase VSIP amount and delegate VSIP/VERA decisions to agencies
+- [Chance to Compete Act implementation](https://www.niskanencenter.org/wp-content/uploads/2025/04/Niskanen-Assessment-4.14.25-Final.pdf)
+    - Appropriate funding so OMB can develop standardized assessment and exam material
+    - Roll out skills-based assessments for higher GS roles and phase out self-assessments
+    - Implement pooled hiring
+    - Expand responsibilities of hiring manager in the hiring process
+    - Limit consultation of I/O psychologists on non-complex skill assessments
+    - Expand USA Hire as a government-wide enterprise system
+    - Expand use of Direct Hire Authority to departments not experiencing a critical hiring need
+    - Eliminate veteran's preference
+- Reinstate Presidential Management Fellows (PMF) program
+- Amend the CSRA to implement at-will employment across the executive bureaucracy
+    - Second best: Extend the probationary period where employees lack procedural rights to more than one year
+    - Second best: Cut down Chapter 43 response window to less than 30 days
+    - Second best: Grant agencies freedom in designin RIF policies (no more first in, last out)
+- Amend the Classification Act to allow agencies to engage in broadbanding with minimal OPM oversight
+- Repeal the FSLMRS or, barring that, ban taxpayer-funded union time and require annual recertification elections for public sector unions
+
+## Service efficiency
+### States should:
+- Emulate Pennsylvania's PAyback program to refund permitting fees if permit turnaround times exceed a set duration
+
+### Congress should:
+- Eliminate negotiated rulemaking ("neg reg") for the agencies that still use it
+- Enforce 90 day timeframe for OIRA review from Executive Order 12866 by automatically advancing proposed rule if OIRA misses deadline
+- [Paperwork Reduction Act reform](https://www.niskanencenter.org/wp-content/uploads/2025/04/PRA-Reform-2025.04.10-final-1.pdf)
+    - Allow OMB approval to last five years instead of three
+    - Allow continuous online feedback as alternative to public comment period
+    - Expand OMB waiver authority
+    - Limit public comments to 30 days
+    - Create voluntary collections exemption
 
 # Transportation and Infrastructure
 ## Aviation
@@ -691,6 +787,8 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Allow protective acquisition powers to FTA funded projects equivalent to those powers accorded to highway projects
 - Create a federal reinsurance program to backstop freight hazmat transport risks in the vein of Price-Anderson
 - Exempt Common Carrier Obligation for freight rail if a shipper has sufficient intermodal alternatives
+- Require ongoing utility maps as a condition for FTA grant funding
+- FTA grants should prohibit any state requirements that vendors set up in-state plants for rolling stock or other components
 
 ## Maritime transport
 ### Congress should:
