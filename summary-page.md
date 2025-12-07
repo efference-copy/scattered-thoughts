@@ -6,7 +6,8 @@
 1. [Environmental Regulation](#environmental-regulation)
 1. [Financial Regulation](#financial-regulation)
 1. [Healthcare](#healthcare)
-1. [Immigration](#immigration)
+1. [Housing](#housing)
+1. [Immigration and International Policy](#immigration-and-international-policy)
 1. [Innovation Policy](#innovation-policy)
 1. [Labor](#labor)
 1. [Law and Public Safety](#law-and-public-safety)
@@ -101,6 +102,8 @@
 - Allow early admission to college for high performing high school students
 - Require districts to equalize per-pupil funding
 - Implement regular standardized test gates to automatically hold back underperforming students (similar to Mississippi's third grade gate)
+- Set up trial programs implementing the Japanes practice of soji (students cleaning up classrooms) and kyushoku (students preparing lunch)
+- Set up trial programs for [behavior-based cash incentives](https://manhattan.institute/article/despite-what-youve-read-paying-kids-to-excel-in-school-does-work) (not outcomes-based)
 
 ### Congress should:
 - Subsidize remediation of lead pipes, HVAC/HEPA filter upgrades, and other environmental factors contributing to learning outcomes
@@ -422,7 +425,39 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Reduce period of marketing exclusivity for biologics from 12 years to 5 (matching small molecule drugs)
 - Replace Part B ASP with MedPAC's Drug Value Program proposal akin to DMEPOS
 
-# Immigration
+# Housing
+## Land Use
+### States should:
+- Preempt local zoning laws with an essential set of YIMBY reforms
+    - Reduce minimum lot size on SF zones to at least <3000 sq ft
+    - Eliminate side setback requirements and greatly reduce or eliminate front setback requirements
+    - Allow for low intensity commercial uses (ACUs, corner stores) in all SF zones
+    - Combine all commercial and multifamily zones into a single mixed use zone
+    - Create a High Density zone that automatically applies to all CBD areas, all residential areas surrounding universities, and anywhere in the walkshed of a high frequency transit stop (defined generously as headways of 15 min of less)
+    - Prohibit rent control, rent stabilization, and inclusionary zoning
+    - Prohibit any stylistic requirements
+    - Allow townhomes and ADUs by right
+    - Prohibit any local restrictions on manufactured or prefab homes in SF zones
+- [Preempt code and non-zoning barriers to building](https://www.centerforbuilding.org/publication/beyond-zoninghidden-code-barriers-to-middle-scale-housing)
+    - Amend IBC to allow single-stair up to 6 stories and scissor-stair for high rises
+    - Amend IRC to apply to six units and below
+    - Allow two hour fire separation in lieu of sprinklers for IRC buildings
+    - Allow NFPA 13D sprinklers to meet any IRC sprinkler requirement otherwise
+    - Allow use of standard residential line for threeplexes and fourplexes
+    - Revise municipal trash pick up rules to allow for multiplexes without need for a large dumpster
+    - Allow Group B code for low intensity commercial uses in small multifamily
+    - Harmonize IBEC with the changes above to not block adaptive reuse projects
+- Authorize a third party permitting program like Phoenix's
+- Create a pattern book of preapproved site plans
+- Implement a Torrens title system
+- Require "right to cure" in Condo Defect Laws, if applicable
+- Allow manufactured homes to be titled as real property
+
+### Congress should:
+- Remove the permanent steel chassis requirement in HUD's MHCSS
+- Implement [EIG's Density Zone proposal](https://eig.org/density-zones/)
+
+# Immigration and International Policy
 ## General immigration changes
 ### Congress should:
 - Eliminate the per-country green card cap and implement green card recapture
@@ -446,6 +481,12 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
     - Replace OPT program with Recent Graduate Visa that lasts one year and has no degree-specific modifiers
     - Create a new green card category, EB-X, that allows for permanent residency based on multiple years of income, including for self-sponsorship. Either 85th percentile income for six years of 95th percentile income for two of the last six years. No per-country cap.
 
+## International aid
+### Congress should:
+- Pass _Fostering Innovation in Global Development Act_
+    - Authorize USAID to engage in advanced market commitments
+    - Codify USAID's Development Innovation Ventures
+    - Authorizes results- and milestone-based funding
 
 # Innovation Policy
 ## Patents
@@ -800,6 +841,15 @@ Restrict Advisory Committee on Reactor Safeguards (ACRS) reviews to unique safet
 - Transfer waterway infrastructure permitting and approval from USACE to USDOT
 
 ## Water infrastructure
+### States should:
+- [Create a legal framework for water markets to replace the current prior appropriation system](https://www.rstreet.org/wp-content/uploads/2018/04/Water-Markets-1.pdf)
+    - Eliminate restrictions on change of use
+    - Recognize storage as a beneficial use
+    - Allow senior rights holders to keep and sell salvaged water
+    - Eliminate amorphous third party considerations
+    - Expedite review for short-term leasing
+    - Create a "water bank" transaction clearinghouse similar to an ISO
+
 ### Congress should:
 - Modify federal water project requirements to allow open materials procurement using performance-based standards
 
